@@ -1,8 +1,0 @@
-OBJECTS:
-to acces an object you either use:
-    1. dot notation
-    2. bracket notation
-
-loops:
-for...in -used to capture keys and indexes
-for ...of - used to capture thr value

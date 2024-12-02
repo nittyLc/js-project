@@ -1,4 +1,4 @@
-//speed of a car
+//speed of a
 function checkSpeed() {
     const speed = Number(prompt("Enter the speed of the car (in km/h):"));
 
