@@ -5,5 +5,20 @@ It is built using purely html and javascript with the following features:
   3. second js file which inputs speed of a car
   4. last js file which calculates individual net salary
 
-Tos eet this project up:
-  1. clone the repository ; git clone 
+Tos set this project up:
+  1. clone the repository : git clone https://github.com/nittyLc/js-project.git
+  2. cd 'js-project'
+
+If interested in contributing ,you can do the following:
+
+Fork the repository.
+Create a new branch:
+git checkout -b feature-name
+
+Make your changes and commit them:
+git commit -m "Add feature-name"
+
+Push to your branch:
+git push origin feature-name
+
+Create a pull request.
